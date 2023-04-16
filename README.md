@@ -48,6 +48,7 @@ The following technologies and tools were used for the implemetation of our proj
 
 ## Demo Video
 Here is the demo video of our project:
+
 https://user-images.githubusercontent.com/90503933/232321349-fe5abdb9-e94f-4913-859e-d11afe4c0ce8.mp4
 
 
